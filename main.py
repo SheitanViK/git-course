@@ -16,5 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
-for i in 'a', 's', 'd', 'f':
+for i in 'a', 's', 'd', 'f', 'g', 'h':
     print(i)
